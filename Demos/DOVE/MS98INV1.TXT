@@ -1,0 +1,492 @@
+
+-+-+-++-+++-++++-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+			   pHaAtTT! iT's dA
+
+	mekka & symposium 1998 invitation text file, version 1
+       --------------------------------------------------------
+
+		 The German Easter Party organized by
+
+	       lEGO . aMABLE . sMASH dESIGNS . tEKLORDS
+	       pHANTASM . pOLKA bROTHERS . cUBIC & sEEN
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++-++++-+++-++-+-+-
+
+ 0x00	.o.O[ --- t a b l e   o f   c o n t e n t s
+
+	0x01	Introduction
+	0x02	Location & Date
+	0x03	Bus Trips
+	0x04	Features
+	0x05	Competitions
+	0x06	Food
+	0x07	Network
+	0x08	General Rules
+	0x09	Time Table
+	0x0a	The Organizers
+	0x0b	More Information
+	0x0c	Releases
+
+
+ 0x01	.o.O[ --- i n t r o d u c t i o n
+
+	In the last years, this demo scene event has grown to the best
+	and biggest German party and its name can sometimes be heard
+	together with "The Party", "The Gathering" or "Assembly" in the
+	same sentence.
+
+	That doesn't mean it's just another huge anonymous lamer
+	conference; in 1997 we had 750 visitors, in 1996 the Symposium
+	had 640, the Mekka 300 visitors, in 1995 the BlackBox Symposium
+	had also around 300 visitors.
+
+	This party is known for its "scenish" flavour, for prominent
+	sceners being there and for high-quality releases. Attenders
+	come from all important platforms, that is mainly the C64, PC,
+	Amiga and some other systems such as the Atari. For the Mekka &
+	Symposium 1998, we expect about 850 visitors having four nice
+	Easter days.
+
+
+ 0x02	.o.O[ --- l o c a t i o n   &   d a t e
+
+	The party place is situated between Hamburg and Hannover, in a
+	small town called "Fallingbostel". Most of you already know this
+	hall from the Symposium & Mekka '97 and we are confident that
+	the space will suffice one more time. Some mistakes we've made
+	last time will be corrected, so we'll have a dark hall in the
+	day-time, better sound equipment and clean toilets. The address
+	is:
+
+		Heidmarkhalle
+		An der Heidmarkhalle 1
+		29683 Fallingbostel
+		http://www.fallingbostel.de/ ;-)
+
+	A phone number will be published on our WWW site a few days
+	before the event starts.
+
+	If you're going to come by car, you will be driving down the
+	highway A7 - Fallingbostel is announced. From the highway exit,
+	there will be signs directing you to the party place. Also,
+	people living there will know you by your weird look and gladly
+	point you the way to the Heidmarkhalle.
+
+	When coming by train, you have to use some major train to either
+	Hamburg or Hannover (whichever is nearer to you), and change for
+	Fallingbostel there. Then you can make use of the free 24h Bus
+	Shuttle service we will set up like every year. You should have
+	contacted Raw Style (for address see below) in advance, just to
+	be sure. If you're coming without equipment, you can also take
+	the walk (half an hour).
+
+	We'll open the doors on Friday, the 10th of April, 12:00
+	CET. The party will last until Monday the 13th, 12:00 CET.
+
+	The entrance fee for the whole time amounts to 40 DM (about 25
+	US-Dollars). We don't take foreign currencies. Girls and
+	Mat/Ozone get in for free! There is no table reservation, and no
+	possibility of paying in advance! Money which is left is spent
+	on the competition prizes. Bring your own power connectors!
+
+	There will be an external sleeping hall right besides the party
+	hall.  Nevertheless, if you need a quiet place to sleep, you can
+	stay at the local youth hostel, which is located about 500m from
+	the party place. If you have the necessary member card and you
+	are interested, this is the address:
+
+		Jugendherberge Fallingbostel
+		DJH Landesverband Hannover e.V.
+		Liethweg 1
+		29683 Fallingbostel
+		Phone: +49 5162 2274
+
+
+ 0x03	.o.O[ --- b u s   t r i p s
+
+	1. Preliminary route: Nürnberg (Germany) - Bamberg - Coburg -
+	Kassel - Fallingbostel.  Small detours are possible, and the bus
+	will also pick you up in any city in between.  This trip is
+	organized by e605/sdi: e605@f-t.de or phone 09504 674.
+
+	Are you organizing another bus trip to MS98? Please contact Raw
+	Style so we can add it to this section!
+
+
+ 0x04	.o.O[ --- f e a t u r e s
+
+	Just a short overview, details are coming up below:
+
+	>> Lots of competitions for Amiga, PC and C64
+	>> Competitions presented on a big screen of 6x4 m^2
+	>> Powerful sound equipment
+	>> Place for 1200 visitors plus equipment
+	>> Live music performances (even non-Techno!)
+	>> Traditional entertainment provided by Steeler!
+	>> Party network with Internet access
+	>> Internet cafe
+	>> A city nearby, with shops and bars
+	>> 24h Drinks & snacks available on the party
+	>> ...and the unique Mekka & Symposium party feeling!
+
+
+ 0x05	.o.O[ --- c o m p e t i t i o n s
+
+	The first version of the compo rules we published was very
+	restrictive - some of you might remember. In the course of
+	events, some people complained about them. Some complaints were
+	well-reasoned, some were not. After three months of discussing
+	and making the rules more open, we came up with this final rule
+	set. We find it's a good compromise between technical progress
+	and keeping a kind of scenish spirit by limiting possibilites.
+
+
+	GENERAL RULES ==================================================
+
+	>> The competitor must be present, or in case of group
+	   contribution, at least one person of the group.
+
+	>> All entries must be delivered until deadline (for time table
+	   see below)
+
+	>> There will be a preselection for the music competitions (we
+	   can't show 200 modules). The selections will be based on
+	   quality, not on names or music styles.
+
+	>> No contribution disks, videos etc. will be given back.
+
+	>> You have to agree that we'll spread your contribution during
+	   and after the party, via Internet, BBSs, CD-ROMs etc.
+
+	>> Just in case: The rules might still change; stay tuned to
+	   announcements.
+
+
+	C64 COMPETITIONS ===============================================
+
+	Two fine competitions to honour the roots:
+
+	The C64 Demo Competition
+		Maximum size is a standard 5.25 DD disk (both sides).
+
+	The C64 4K Intro Competition
+		Maximum size is 4096 bytes (not more than 16.12
+		blocks...).
+
+	Note that there are also the C64 Graphics and C64 Sound
+	competitions...
+
+	The competition computer contains a new SID and an Action Replay
+	MK6, and is connected to a 1541-II floppy drive.
+
+
+	IBM PC COMPETITIONS ============================================
+
+	The PC Demo Competition
+		The summed size of all the files belonging to the Demo
+		must not exceed 6 megabytes (6291456 bytes).  The demo
+		must work with an SB16, too.
+
+	The PC 64K Intro Competition
+		The size may not exceed 64 kilobytes (65536 bytes).
+
+	The PC 4K Competition
+		The size may not exceed four kilobytes (4096 bytes). A
+		nosound option doesn't have to be provided.
+
+	The configuration of the PC and some general notes go like this:
+
+	>> CPU: Intel Pentium 166MHz, 512K Level 2 Cache
+	>> RAM: 32MB
+	>> Sound: Gravis Ultrasound PnP 1MB and SoundBlaster 16.
+	>> Graphics: An S3 Trio64V+ (80C765) based card with 2MB of
+	   display memory, SDD 5.3a or later will be running.
+	>> We will be running MS-DOS 7.0: Win95 is not running,
+	   it has been shut down into MS-DOS mode.
+	>> Maximum resolution is 800x600. Please try to avoid excessive
+	   mode switches, as this may lead to considerable video beam
+	   drop out times.
+	>> All entries (except the 4K ones) must also work if no
+	   soundcard is present, or they must provide an explicit
+	   -nosound option.
+	>> All entries must be handed in on double- or high-density FAT
+	   (MS-DOS) formatted disks.
+
+
+	AMIGA COMPETITIONS =============================================
+
+	The Amiga Demo Competition
+		The summed size of all the files belonging to the Demo
+		must not exceed 3 megabytes (3145728 bytes).
+
+	The Amiga 40K Intro Competition
+		The size may not exceed 40 kilobytes (40960 bytes). 40K,
+		not 64K!
+
+	The Amiga 4K Competition
+		The size may not exceed 4 kilobytes (4096 bytes).
+
+	The competition Amiga is a 68060-based machine. We don't know
+	yet whether it will be an A4000 or an A1200, and it doesn't
+	matter either.  Your contribution has to work on a 68030 with
+	8MB FastMem.  Assigns and installation scripts are
+	forbidden. Custom libraries may be used, but not installed
+	outside of the contribution directory. All entries must come on
+	double-density (!) Amiga disks.
+
+
+	GRAPHICS COMPETITIONS ==========================================
+
+	The Graphics Competition
+		Maximum resolution is 640x480 in 24 Bits TrueColor.  The
+		entries must be handed in in IFF, PNG or TGA format.
+		JPEGs will not be accepted, due to the loss of quality.
+		The size of the file shouldn't grow beyond an MB, unless
+		you've made some stupid error.
+
+	The C64 Graphics Competition
+		All formats/modes are allowed, the contribution must be
+		handed in as an executable file on a standard C64 disk.
+
+	The ANSI Competition
+		Due to the rising number of ANSI-painters, the
+		competitions are flooded by many entries not worth to be
+		shown, making a proper voting impossible.  To avoid
+		having a preselection, we decided to organize the ANSI-
+		compo like a traditional fast-compo.  Thus, every
+		participant has to paint a logo and some objects that
+		are declared some time before the deadline.  You will
+		have three hours for creating your entry.
+
+		AcidView 3.99 is the official compo-viewer.  First, the
+		picture will be shown in Textmode (80x25) using a BPS of
+		2400 and then again in VGA.  Comments and suggestions
+		may be sent to Paul Nothdurft@2:240/5527.23 (aka
+		Trate/FBK&Purge).
+
+	All the entries will be shown at least twice, at different
+	daytimes.
+
+
+	MUSIC COMPETITIONS =============================================
+
+	The MOD Competition
+		Allowed are ProTracker modules only, that means four
+		channels, and playable with all the usual mod players on
+		all the usual platforms.  The only restriction is: Don't
+		use more than 447 kilobytes (457728 bytes). We will show
+		twelve selected entries to the audience, using
+		ProTracker V2.2a on Amiga.
+
+	The XM Competition
+		Don't use more than 713 kilobytes (730112 bytes). We
+		will show twelve selected entries to the audience, using
+		the latest FastTracker on an AWE64. Only XM modules and
+		other formats playable by FastTracker are allowed!
+
+	The C64 Sound Competition
+		All formats allowed, the entry must be an executable
+		file delivered on a standard C64 disk. The C64 screen
+		will not be shown during the competition.
+
+	We will show 4:27 (four minutes and twenty-seven seconds) of
+	each song.
+
+
+	OTHER COMPETITIONS =============================================
+
+	The 32K Game Competition
+		For PC and Amiga. The above configurations apply.
+		Maximum size of all files is 32768 bytes. Temporary
+		files on the harddisk are allowed, they will not be
+		included in the byte count. They will be removed before
+		playing the game. The coder will play it on the big
+		screen. If you are planning networked games, contact us
+		in advance. We will do a preselection on this
+		competition to ensure that no two-hours gag program will
+		win again, instead of one of the games into which the
+		programmers have put a lot of work!
+
+	The Wild Competition
+		Use any hardware you want, and hand in your work on a
+		VHS or S-VHS tape. You may also bring your wild
+		hardware, but please get in contact with the organizers
+		in advance to make sure we can actually connect it to
+		big screen beamer.
+
+	The Fast Intro Competition
+		The one thing that must not miss on any party. Surprise
+		surprise ;-)=
+
+
+ 0x06	.o.O[ --- f o o d
+
+	We'll sell sandwiches, snacks (Mars, Snickers etc.) and
+	Coke/Sprite etc.  all the time. Currently we can't guarantee
+	that there will be more food supply, but we give our best to
+	have a snack-bar with fries, hamburgers etc. in front of the
+	building. Besides that you can still walk those few meters into
+	the city of Fallingbostel and make use of the shops and bars
+	there (most shops open only on Saturday). Of course you may also
+	bring stuff from home.
+
+
+ 0x07	.o.O[ --- n e t w o r k
+
+	There will be a reliable party network with high-speed Internet
+	access.  Details will follow later, but we are planning a Fast
+	Ethernet (100Mbps) system!
+
+
+ 0x08	.o.O[ --- g e n e r a l   r u l e s
+
+	The usual legal mush: We are not responsible for stolen computer
+	equipment or other personal items you bring with you. We aren't
+	responsible for personal injuries either. Take care of yourself,
+	your friends and your luggage. We didn't have much trouble with
+	theft on our parties, but it might be better to think twice
+	about taking a certain valuable thing with you onto the party.
+
+	The use of alcohol is hereby explicitly forbidden. After facing
+	severe damages and personal attacks on the last party due to
+	heavily drunken individuals, we chose to put up this
+	rule. Drunken guys won't be let inside, disturbing guys will be
+	put outside. Don't consume Vodka in front of the stage. Don't
+	*vomit* onto the floor.
+
+	If we find you to be destroying things, either intellectual
+	property (hacking the network system), or physically damaging
+	the building, you can be sure we won't forget you.
+
+	Please respect German law. Illegal actions, especially regarding
+	software piracy, can not be tolerated. Dutch visitors should try
+	to be aware of the fact that weed is an illegal drug here.
+
+	Have fun! And if you have ideas of what might be fun on the
+	party, don't hesitate to contact us, even on the party. You're
+	part of the party.
+
+
+ 0x09	.o.O[ --- t i m e   t a b l e
+
+	Friday, 10th April
+
+		12:00	Opening
+		16:00	Opening ceremony
+
+	Saturday, 11th April
+
+		15:00	Deadline I:
+				All music and graphics competitions,
+				Wild competition, 4K Intro.
+
+		18:00	C64 Music competition
+		20:00	Graphics competition
+		23:00	Wild competition
+
+	Sunday, 12th April
+
+		01:00	C64 Graphics competition
+		08:00	Module competition
+
+		10:00	Deadline II:
+				All intro competitions, Game 32K.
+
+		11:00	4K Intros Amiga, PC, C64
+		13:00	Graphics, repeat
+		14:00	XM competition
+		16:30	Game 32K competition
+		17:30	C64 Graphics, repeat
+
+		18:00	Deadline III:
+				All demo competitions.
+
+		18:00	40K Intros Amiga
+		20:00	64K Intros PC
+		22:00	PC demo competition
+
+	Monday, 13th April
+
+		00:00	Amiga demo competition
+		02:00	C64 demo competition
+
+		05:00	Voting deadline
+		10:00	Prize giving, closing ceremony
+		12:00	End of the party
+
+
+ 0x0a	.o.O[ --- t h e   o r g a n i z e r s
+
+	These are only a few addresses, they should cover most anything
+	you might want:
+
+	Hardball / Amable (PC, general organization)
+	Malte Kanebley - Im Dorfe 3 - 21629 Neu Wulmstorf - GERMANY
+	[hardball@ms.demo.org]
+
+	Raw Style / Lego (Amiga, competition organization)
+	Michael Krause - Mannesallee 24 - 21107 Hamburg - GERMANY
+	[rawstyle@ms.demo.org]
+
+	Gandalf / Phantasm (Amiga, general organization)
+	Frank Schliefer - Am Musterplatz 27 - 21220 Seevetal - GERMANY
+	[f_schliefer@vcc.de]
+
+	Chaotic / Smash Designs (C64, general organization)
+	[chaotic@dame.de]
+
+	Decca / Lego (Amiga, general organization)
+	[ham00665@mail.hamburg.roses.de]
+
+	MoM / Cubic Team (PC, Network organization)
+	[lukas@dn.demo.org]
+
+	Steeler / Phantasm (Amiga, Entertainment)
+	[steeler@ms.demo.org]
+
+	Sultan / Teklords (Amiga, Security)
+	[sultan@ms.demo.org]
+
+	Doj / Cubic Team (PC, general organization)
+	[doj@cubic.org]
+
+	Crash / Polka Brothers (PC, general organization)
+	[polkab@aol.com]
+
+
+ 0x0b	.o.O[ --- m o r e   i n f o r m a t i o n
+
+	It pays to have a look at our WWW page now and then. It is
+	located at "http://ms.demo.org". Don't hesitate to contact any
+	of the organizers personally, if any questions are open! The
+	guestbook is also a matter of expressing criticism, but we
+	consider it more nice if you were also to send us a personal
+	e-mail in addition.
+
+	There will be an Amiga and C64 invitation intro, to be released
+	at The Party VII.
+
+
+ 0x0c	.o.O[ --- r e l e a s e s
+
+	28-Dec-97	Amiga 40KB Invitation Intro ("ms98-ami.lha"),
+			C64 Invitation Demo ("ms98-c64.zip")
+	26-Dec-97	Invitation Text, Version 1 ("ms98inv1.txt")
+			(incl. updated rules, time table, bus trips)
+	14-Dec-97	Invitation Text, Version 0 ("ms98inv0.txt")
+	30-Jul-97	First Announcement ("ms98-v01.txt")
+
+
+@BEGIN_FILE_ID.DIZ
+============================================
+X=--       Mekka & Symposium 1998       --=X
+X=--        Invitation Text File        --=X
+X=--             Version 1              --=X
+X=--       (Easter 1998, Germany)       --=X
+============================================
+@END_FILE_ID.DIZ
+
+
+
+

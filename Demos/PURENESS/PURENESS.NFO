@@ -1,0 +1,294 @@
+
+
+Enter the age of contemporary demos...
+	 demos with a mood...
+		'Pureness' has a mood,
+			and it'll set you in that mood when you watch it....
+
+
+
+System requirements
+===================
+
+* i486DX (yes, 386 is too slow that I'd rather you not watch it)
+
+* DOS in Real Mode (that is, remove EMM386,QEMM etc and boot with only HIMEM)
+
+* 580Kb base RAM, 1024Kb XMS (extended memory)
+
+* VGA (Local Bus or PCI Bus VGA is highly recommended)
+
+* 3.3 megabytes of harddisk space
+
+* Gravis UltraSound (512Kb) is required for music
+
+* A peaceful mood.
+
+
+Note:
+ You should have these in PURENESS.ZIP:
+ 1.PURENESS.EXE  265862 bytes
+ 2.PURENESS.DAT 2815568 bytes
+ 3.NEVER   .S3M  230568 bytes
+ 4.WATERLOG.IC!       0 bytes
+ 5.PURENESS.NFO   12224 bytes
+ 6.WLOGIC  .NFO    2453 bytes
+
+ If the the filesizes you have does not match here, you might want to run
+ your virus scanner....
+
+
+
+
+About 'Pureness'
+================
+
+	It all started about 10 months ago when I heard about 'The Scene 95'.
+As I have been fascinated by demos I've seen from European countries (Unreal,
+Crystal Dreams, Panic etc), I asked myself, 'Why not give it a try?' and a
+friend supported that idea, and thus the decision was made.
+	Many will think spending 10 months on such a impractical goal is
+absurd, but I think it's worth every single minute of it. A personal challenge
+is one of the reasons I made this demo.
+	During the making of PURENESS, the Singapore demo scene was rather
+stagnant, there were only 3 active groups, and some groups with a name but
+no productions, and most modemmers didn't even know what a demo is. I think
+it's about time we move on to learn to appreciate this special art of
+visualizing a person's imagination by means of REALTIME computer graphics.
+I emphasize the term 'realtime' becoz this is what demos are all about.
+With little practice, most of us can use ready made animation softwares like
+3D Studio and PhotoShop Premiere to create some impressive graphics, but demos
+are different, the effects are produced at runtime, using state-of-the-art
+coding skills to exploit the powers of the CPU, and so the quality of the
+effect is directly dependent on the coder's mastery of his skill. Not to
+be ignored is the design of that effect. As someone said before, 'A good
+design can make a lousy routine look good, likewise, a poor design can make
+a good routine look lousy.'
+	In this attempt to make a demo that hopefully can symbolize what
+Singaporeans are capable of in making demos, I've flunk my studies (awhile),
+foregone social activities for a long while (too long...), and put aside many
+other plans that I have. The entire demo has about 20,000+ lines of C and
+Assembly codes. All of which are made from scratch. Of coz along the way, a
+few generous individuals have kindly shared their knowledge with me, I really
+appreciate that, you know who you are... Equally important are my friends that
+shared those moments of blues with me, I can't thank you enough...
+
+
+
+Credits for 'Pureness'
+======================
+
+.All the codes and concepts was by me (Rex Deathstar), except the sound system
+ which was originally MIKMOD v2.03. (Thank you Jean!)
+
+.All the graphics (title pages, sketches) was done by Agen.
+
+.All the music was composed by Zane.
+
+
+
+
+Some technical details of 'Pureness'
+====================================
+
+
+=STARGATE=
+ The wormhole uses a 256x256 seamless texture to make it more
+ detailed than most other wormholes you've seen before.
+
+=TRANPARENT PLASMA=
+ This plasma is just an extension of the common plasma by using a
+ transparent bitmap acting as a backdrop.
+
+=IMAGE WARP=
+ This routine also uses a 256x256 seamless texture which was
+ created by embossing a landscape heightfield.
+
+=TEXTURE MAPPING=
+ A simple textured cube using a 128x128 bitmap. Seems like transparency makes
+ this otherwise common routine look unique.
+
+=PHONG SHADING=
+ The face has 550 vertices and 1039 facets, which was converted from a
+ 3DStudio mesh file.
+
+ This part is not really a faked phong as many might think, it is instead an
+ improved method of angle interpolation which detects highlights that fall in
+ the middle of a polygon by differencing the reflection vectors.
+
+=PHONG TEXTURE=
+ The torus has 256 vertices and 512 facets.
+ The texture used to map this torus is the same one as in IMAGE WARP.
+
+ While trying to make it transparent, I did not use the standard 16 colors by
+ 16 shades method but a phong-intensity and texture matrix lookup, thus making
+ it much slower than it could be, but I think the effect was worth it.
+
+=PHONG MOTION BLUR=
+ The Venus (Goddess of Love) statue has 712 vertices and 1396 facets.
+
+ This motion blur technique came to me in my dreams, it can do 256 levels of
+ motion blur with 4 pixels in 5 instructions with edge detection, thus
+ eliminating redundant calculations.
+
+=FLUID DYNAMICS=
+ True fluid simulation using real fluid dynamics equations.
+
+ A special thanks to ARM/Iguana for providing the equations.
+
+ Arturos, it seems to do standing waves and interference by itself! :)
+
+=FLIGHT OF FREEDOM=
+ This sky-mapping and ocean-mapping uses ray-casting technique.
+
+ Depth shading was not implemented but instead reflection mapping was used
+ in the ocean-mapping. You'll need to look closely to see the clouds being
+ reflected on the ocean.
+
+
+
+
+
+			WaterLogic greets:
+
+	MysTiCal      Mode XIX      Pandemonium      PowerSurge
+	Renegade    Access Denied     Admire         Anarchy PC
+	Avalanche      Cascada       Capacala         Complex
+	Darkzone        Dust         Epical           Extreme
+	  EMF        Future Crew     Gollum           Iguana
+	 Impact        Infiny        Jeskola!       Legend Design
+	Majic 12       Nooon          Orange           Prime
+      Renaissance  Surprise! Prods.    Tran           Triton
+	Valhalla      Xography
+
+		      And all others out there!
+
+A special note to RENEGADE:
+ I am utterly disgusted by the way you guys rip other people's routines and
+ hope to fool the unsuspecting people. It is simply a shameless act.
+
+
+
+
+
+Rex Deathstar says 'Hi' to (no particular order):
+
+	Ken, BaoXiong, Jacqueline, Christine, XiangLin, Cathy, Emileen,
+	Yap Sieh Roy, Kevin Ng, Kerry Ho, Brandon Shen, Kor Kian Wei,
+	Vincent Wei, Tan Thor Jian, Ng Cheng Kiang, Alvin Tan, Simon Yap,
+	Gerry Tan, Ng Pei Sin, Nicholas Chan, Ang Pet Chean, Chris Wong,
+	Eric Scorpio, Choo TianWei, Vieve Low, Chew Teck Siong, Richard Chai.
+
+	ARM/Iguana, JCAB/Iguana, JARE/Iguana, Tim Clarke (Stoned Cat),
+	Stefan Pettersson, Loot/Triton, Jmagic/Complex, Reward/Complex,
+	HADES, John Smith/Advanced Gravis, Jean Paul Mikkers/MikMod
+
+	And too many others that I forgetfully left out...
+
+
+
+
+
+
+
+
+
+		About the demo party 'The Scene 95'...
+
+This is the first demo party Singapore ever had, and the first one I ever
+attended. It wasn't quite as what I had expected, but nonetheless, it was fun.
+
+12.35PM:
+I arrived at the party place, Seaview Hotel with 2 friends, Emileen and YewJin.
+It was rainly heavily. We sat in the lobby while waiting for the organisers
+to arrive. I was testing my demo on YewJin's laptop and Emileen was reading a
+book when part of the organising team arrived with PCs, monitors and MIDI
+equipment.
+
+
+1.50PM:
+I continued testing the demo while they went to the party room to setup the
+hardware, which took much longer than expected. Party goers started coming
+in and the organisers were still fiddling with the compo PC. Eventually, the
+PC was fixed and we ran a crash beta-test of all the demo entries. The display
+was a 256-color LCD projector which I think really messed up the colors.
+
+
+2.30PM:
+Half on hour into the actual starting time, the demo compo finally started,
+first to appear was 'Shades of Gray' by Mode XIX, there were some fast 3D
+pixels and alot of plasma. Kevin Ng made a cool joke statement 'No phong, but
+there's gouraud' and a blue gouraud cube came on. Then came 'Raven' by
+Renegade, the music was FC-like, and on the second part, I saw a 3D texture
+wave that looked just like what Jare/Iguana has released source codes for,
+and that was a real turn-off. The second last part was introduced by these
+words, 'The next part is gonna kill you...', which turned out to be a virtual
+world. It did kill me by the slowness and long-windedness of this part, which
+was reused in their previous demo 'CLASSIKA'. Then it was my demo 'Pureness's
+turn to take stage. Everything ran fine, but the colors were marred by the
+lousy LCD projector. After 10 minutes, when the last part, ray-casting, came
+on, I thought it was a perfect run, then the screen started fading off 2 bars
+before the music ends, which was very disappointing. It might have something
+to do with the bus speed of the demo PC. Next came 'Rush' by Mode XIX (yeah,
+2 entries! ;). Well, everything was a rush, and I really couldn't recall
+anything except some inteference circles and the part where a tweaked-mode
+fooled the LCD projector and nothing showed on the screen. The final entry
+was 'Enchantment' by MysTiCal. There were some lengthy parts but I liked the
+part where a jigsaw puzzle was assembled at runtime, which turned out to be
+a cool picture of a landscape rendered in VistaPro and the group's logo on it.
+
+Taking into account that the demo scene here is in it's infancy, I guess that
+the demo compo was a good start. Hopefully more groups will join in and we can
+really get the scene rolling.
+
+
+
+3.30PM:
+The music compo starts. I don't recall the order of the songs played, but
+I know there were 7 entries, 3 of which were fast techno beats. I especially
+liked 'Never' by Zane, which was the song I used in my demo entry 'Pureness'.
+It was not those songs that capture you at once, but after awhile of
+listening, it sinks into you and you start to like it. 'Misty Hearts' by Ng
+PeiSin was a cool contemporary piece which was very pleasant to the ears.
+'Body Language' by Zane (yeah, 2 entries and one arrangement by Zane! ;)
+was a little funky and very sexy tune. 'Ecstasy' by DataLunch (heh, this coder
+for Mode XIX knows music too! :) was 'ecstatic' as the same repeating bass
+patterns really creeps up your spine! The 2 remaining tunes were techno
+songs by Renegade, the beats are cool, but there weren't recognizable melody,
+making them another of those disco songs. 'Pureness' by Martin Chen was
+originally made for my demo, but I felt it was too 'flowery' and did not
+fit well with the demo. It was arranged by Zane (again? :) and lengthened to
+about 8 minutes (for the demo). Although I liked the piano melody, it felt
+long-winded.
+
+
+4.30PM:
+The organisers were busy collecting votes and the judges were making their
+decisions. The crowd went for a tea-break and I went around meeting new
+friends. The live MIDI band performance was unfortunately cancelled due to
+some technical problems, and there were no interest in the network DOOM compo
+so it was cancelled as well. The demo group leaders were somehow invited by
+the organisers to give a small talk to the audience, which I think Kevin Ng
+of Mode XIX gleefully accepted. When it was my turn, I didn't say much as I
+was too tired (trying to complete the demo in time), but one thing I had
+wanted to say, and said, was to thank my parents for all they have given me.
+
+
+5.30PM:
+It's time to announce the results. Tension builds up as Roy of MysTiCal went
+up with the results. For the music compo, 'Never' by Zane came in first,
+'Misty Hearts' by Ng Peisin was second and 'Pureness' by Martin Chen and Zane
+finished third. I was surprised the audience liked 'Never' so much after
+only hearing twice. As for the demo compo, 'Pureness' by WaterLogic got
+first place, 'Raven' by Renegade was second, and 'Shades of gray' by Mode XIX
+came in third. It was a wish come true for me as this 10 month effort paid off
+and I can have a long-overdue rest. I thank all who voted for 'Pureness' and
+the organisers and sponsors for making the demo party a reality.
+
+	See ya in 'The Scene 96'!
+
+
+
+
+Signed,
+Rex Deathstar/WaterLogic

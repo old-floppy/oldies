@@ -1,0 +1,126 @@
+[  D o o m s d a y % E l e k t r o n i k s % T h e  P a r t y ' 9 7 % D e m o ]
+
+
+  .-ÄÄ prologue ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     uuh.  this demo was done in five (5) days and it sure does look
+     like it  --  but we tried our best. not much new routines  since
+     BOOST,  our  Assembly'97  demo , but we are satisfied with this
+     release,  even though it won't succeed in the  democompetition.
+
+
+  .-ÄÄ hardware ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     the demo might run on a fast 486 but a pentium is strongly
+     recommended. if you start the demo with parameter -pfs, 8 mbyte
+     ram should be enough, otherwise about 12 mbyte is required.
+     if you have 16 mbyte ram, try starting the demo with parameter
+     -uppfs, this will give shorter transitions between effects.
+
+     you will need a video card that supports lo-res hi-color
+     modes as the demo runs in 320x200 15 or 16 bit internally.
+     if the demo can't detect hi-color, it will use 8 bit fakemode.
+     note that the colors look very bad in fakemode. for maximum
+     enjoyment, please run the demo in hi-color. most video cards
+     support lo-res hi-color modes with a special vesa driver such
+     as SciTech Display Doctor (univbe).
+
+     if you want to hear the music you naturally need a soundcard.
+     midas 1.1.1 offers the choice of the following cards: gravis
+     ultrasound, audio pro spectrum, windows sound system and sound
+     blaster. soundcard parameters should automagically be detected
+     but you can manually set them if you start the demo with
+     parameter -m.
+
+
+  .-ÄÄ windows 95 ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     note that this demo is a 32 bit dos program, not a windows 95
+     program. it should however run in a dos-box under windows 95 if
+     the video card supports vesa linear frame buffer or if you run
+     the demo in 8 bit fakemode (parameter -fm). it will not run in
+     banked mode as windows 95 will shut it down when it tries to
+     change write bank from inside the vsync isr.
+
+     under windows 95, screen sync will be very bad. please consider
+     running the demo in dos mode. also, in dos mode, the problems
+     with banked mode do not exist.
+
+
+   .ÄÄ credits ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     code ................ MRI    (3D-code, script code, misc.code)
+                           Doom   (2D-code, "sprites")
+     music ............... Illusion
+                           Swallow
+     art + scenes ........ Damaq
+                           Dice
+                           Wode
+
+     And introducing our own 'evil sideshow Bob' -- Kidlove!
+
+     midas .......... Housemarque Inc. ......... we hate you :)
+     pmode/w ........ T Pytel & C Scheffold .... we like you
+
+
+   .ÄÄ the crew ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     Damaq ....... damaq@stekt.oulu.fi             (gfx, 3D)
+     Dice ........ miettinen.antti@susi.ysakk.fi   (gfx, 3D)
+     Doom ........ mpesonen@orion.pspt.fi          (code)
+     Illusion .... ilsn@freenet.hut.fi             (music)
+     MRI ......... mri@penti.sit.fi                (code)
+     Swallow ..... nielu@hotmail.com               (music)
+     Wode ........ svoutila@ratol.fi               (gfx, 3D, music)
+     Addict ...... piiraine@lut.fi                 (music)
+     Razorback ... antpol@jytol.fi                 (gfx)
+     Bay Tremore . btremore@hotmail.com            (gfx, music)
+     TDA ......... j153652@cc.tut.fi               (code)
+     Chavez ...... chavez@freenet.hut.fi           (music)
+     Kidlove ..... -                               (gfx)
+
+
+   .ÄÄ greetings and respect ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     CNCD, Orange, VD/FLT, Pulse, TPOLM, Coma, Byterapers,
+     Cubic Team & $eeN, Esteem, SoCS, TBL, Halcyon, Complex,
+     Radio, Wild Light, HiRMU, Exceed, Trauma, DCS, Haujobb,
+     Cryonics, Selleri, Astroidea, Immortals, Jamm, Bomb.
+
+     Hi RadXCell! :)
+
+
+   .ÄÄ legal part ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+
+     this demo has been thoroughly tested and found not to cause any
+     kind of damage to hardware or any kind of data loss. if however
+     something bad  happens while  you are running ELEKTRONIKS,  the
+     Doomsday crew  takes no responsibility  for this.  you use this
+     program on your own risk.
+     
+     this demo may freely be  copied and  distributed if no money is
+     charged for it.  the Doomsday crew  holds the copyright for the
+     demosystem and datafiles,  Housemarque Inc. holds the copyright
+     for the midas sound system and T Pytel  &  C Scheffold hold the
+     copyright for the pmode/w  dos extender.  in plain english this
+     means  that you are not  allowed to make  money on  ELEKTRONIKS
+     without the written permission from the Doomsday crew.
+     The Party organizers however are allowed to include ELEKTRONIKS
+     on the The Party '97 cdrom (if there is any).
+
+
+   .ÄÄ final note ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.
+
+     support the demogroups. if you enjoy watching a demo,  consider
+     watching it again.  someone  has to  make it worth the coder's,
+     samurai's and musician's  effort to keep up the high standards.
+     they made it, so they deserve it.
+
+
+    ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+              Elektroniks is dedicated to stupidity.
+
+
+[ Take That  %  East 17 %  Backstreet Boys  %  NKOTB  %  Boyzone  %  Doomsday ]
